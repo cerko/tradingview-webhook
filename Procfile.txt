@@ -1,0 +1,1 @@
+web: gunicorn tradingview_webhook:app
